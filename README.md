@@ -1,7 +1,7 @@
 # FlipkartWebScraping1
 Objective: 
 
-Perform anlytics for comparing products from  multiple e-commerce channel Flipkart and Paytm.
+Perform anlytics for comparing products catalog from  multiple e-commerce channel Flipkart and Paytm.
 
 Description:
 
